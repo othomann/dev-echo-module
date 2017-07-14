@@ -9,9 +9,9 @@
 /*eslint-env node, express*/
 'use strict';
 
-var express = require('express');
+const express = require('express');
 
-var router = express.Router();
+const router = express.Router();
 
 module.exports = router;
 
